@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/janitha/Documents/Core/webapi/webapi.csproj",
+      "projectUniqueName": "/home/janitha/Documents/Core/webapi/Api/webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "/home/janitha/Documents/Core/webapi/webapi.csproj",
+      "projectPath": "/home/janitha/Documents/Core/webapi/Api/webapi.csproj",
       "packagesPath": "/home/janitha/.nuget/packages/",
-      "outputPath": "/home/janitha/Documents/Core/webapi/obj/",
+      "outputPath": "/home/janitha/Documents/Core/webapi/Api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
